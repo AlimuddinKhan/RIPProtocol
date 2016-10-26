@@ -20,7 +20,8 @@ You have following set of commands to interact with the program
 
 | command |  details |
 | --------| ---------|
-| add \<neighbor's IP cost\> |  This command adds one neighbor with the given cost|
+| add \<neighbor's IP\> \<cost\> |  This command adds one neighbor with the given cost|
+|addall | This method takes you to the wizard to add more than one neighbor at a time|
 
 
 1. add <neighbor's IP> <cost> :  This command adds one neighbor with the given cost
