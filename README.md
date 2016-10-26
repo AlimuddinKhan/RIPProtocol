@@ -2,16 +2,20 @@
 #### Author: Alimuddin Khan
 ##### Email ID: aak5031@rit.edu
 
-#### Step1: Compile All the files
+------
+
+## Step1: Compile All the files
  You can compile all the files using the following command
  ```shell
  javac *.java
  ```
-#### Step2: Run the RIPProtocol
+## Step2: Run the RIPProtocol
  You can run this program in the following way;
+ ```shell
  java RIPProtocol 
+ ```
 
-#### Step3: Interacting with the program 
+## Step3: Interacting with the program 
 You have following set of commands to interact with the program
 
 1. add <neighbor's IP> <cost> :  This command adds one neighbor with the given cost
