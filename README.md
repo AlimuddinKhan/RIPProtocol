@@ -20,7 +20,7 @@ You have following set of commands to interact with the program
 
 | command |  details |
 | --------| ---------|
-| add neighbor's IP cost |  This command adds one neighbor with the given cost|
+| add \<neighbor's IP cost\> |  This command adds one neighbor with the given cost|
 
 
 1. add <neighbor's IP> <cost> :  This command adds one neighbor with the given cost
