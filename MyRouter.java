@@ -324,8 +324,7 @@ public class MyRouter implements Serializable{
                 }
 
             } catch (Exception e){
-                    System.out.println(this.getDateTime() + ": (Distance Vector Update)" +
-                            " Some of the fields are null");
+                    // will catch NullPointerException if we do not have any neighbor's
                 }
             }
         }
