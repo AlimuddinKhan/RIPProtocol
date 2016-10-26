@@ -1,7 +1,7 @@
- /**
-Author: Alimuddin Khan
-Email ID: aak5031@rit.edu
- **/
+ 
+# H3 Author: Alimuddin Khan
+# H4 Email ID: aak5031@rit.edu
+
  Step1: Compile All the files
  You can compile all the files using the following command
  javac *.java
