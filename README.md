@@ -1,11 +1,12 @@
-### Author: Alimuddin Khan
-#### Email ID: aak5031@rit.edu
+# RIP PROTOCOL
+#### Author: Alimuddin Khan
+##### Email ID: aak5031@rit.edu
 
-##### Step1: Compile All the files
+#### Step1: Compile All the files
  You can compile all the files using the following command
  javac *.java
  
-##### Step2: Run the RIPProtocol
+#### Step2: Run the RIPProtocol
  You can run this program in the following way;
  java RIPProtocol 
 
