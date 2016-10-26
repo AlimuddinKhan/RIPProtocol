@@ -18,6 +18,11 @@
 ## Step3: Interacting with the program 
 You have following set of commands to interact with the program
 
+| command |  details |
+| --------| ---------|
+| add <neighbor's IP> <cost> |  This command adds one neighbor with the given cost|
+
+
 1. add <neighbor's IP> <cost> :  This command adds one neighbor with the given cost
 2. addall : This method takes you to the wizard to add more than one neighbor at a time
 3. remove <IP-of-nbr> : This command removes the local link to specified neighbor
